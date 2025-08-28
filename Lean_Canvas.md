@@ -3,25 +3,33 @@
 ## Problem
 > List your top 1-3 problems.
 
-1.
+1. The existing products on the market is very expensive
+2. Measures from, for example, pulswatches can be inaccurate
+3. Continous measurements during activity can be hard 
 
 ### Existing Alternatives
 > List how these problems are solved today.
 
-1.
+1. VO2 Master can do metabolic measurements during activity but is quite expensive
 
 ## Customer Segments
 > List your target customer and users.
 
-1. 
+1. Hospitals
+2. Research centers
+3. Athletes
+4. Trainers
+5. Private customers
 
 ### Early Adopters
 > List the characteristics of your ideal customer.
 
+A patient that could benefit from continous or regulatory Co2 (and more) measures at home to determine wheter the patien't condition has worsened
  
 ## Unique Value Proposition
 > Single, clear, compelling message that states why you are different and worth paying attention.
 
+Home non invasive metabolic measurements accessible to all!
 
 
 ### High-level Concept
