@@ -39,27 +39,40 @@ Home non invasive metabolic measurements accessible to all!
 ## Solution
 > Outline a possible solution for each problem.
 
+Build a cheaper version but with the same features.
+
+Direct measurement via exhaled air
+
+Create possibilities for wireless measurement and transfer of data
  
 ## Channels
 > List your path to customers (inbound or outbound).
 
-1.
+1. KTH innovations
+2. Collaboration with Research centers
+3. Congress and exhibitions for hospital market
 
 ## Revenue Streams
 > List your sources of revenue.
 
-1.
+1. Direct purchases
+2. Research grants
 
 ## Cost Structure
 > List your fixed and variable costs.
 
-1.
+1. Spareparts
+2. Staff
+3. Exhibition costs
 
 ## Key Metrics
 
 > List the key numbers that tell you how your business is doing.
 
-1.
+1. Build prototype/hardware
+2. 
 
 ## Unfair Advantage
 > Something that cannot easily be bought or copied.
+
+KTH
