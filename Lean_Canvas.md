@@ -29,7 +29,7 @@ A patient that could benefit from continous or regulatory Co2 (and more) measure
  
 Universities involved in sports technology 
 
-Or a performance-driven person who wants to keep track of their measurements. 
+A performance-driven person who wants to keep track of their measurements. 
 
  ## Unique Value Proposition
 > Single, clear, compelling message that states why you are different and worth paying attention.
