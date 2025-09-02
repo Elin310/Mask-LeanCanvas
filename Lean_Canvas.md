@@ -88,5 +88,9 @@ Create possibilities for wireless measurement and transfer of data
 
 ## Unfair Advantage
 
+Technical expertise.
+Access to Research facilities (KTH)
+Early adopters. 
+
 KTH
  
