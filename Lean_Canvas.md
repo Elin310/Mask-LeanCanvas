@@ -34,7 +34,7 @@ A performance-driven person who wants to keep track of their measurements.
  ## Unique Value Proposition
 > Single, clear, compelling message that states why you are different and worth paying attention.
 
-Home non invasive metabolic measurements accessible to all!
+Home non-invasive metabolic measurements accessible to all!
 
 Unlike wearables that only estimate VO2 max values, our mask will measure the O2 and CO2 exchange at a lab level for accuracy, for a fraction of the cost. 
 
@@ -42,7 +42,7 @@ Simple setup, ready to use without expert supervision.
 
 
 ### High-level Concept
-> List your X for Y analogy e.g. Youtube = Flickr for videos
+> List your X for Y analogy e.g., Youtube = Flickr for videos
 
 VO2 Master, but developed for students and researchers - portable and affordable for education at KTH.
 
@@ -87,7 +87,6 @@ Create possibilities for wireless measurement and transfer of data
 3. Sensor accuracy
 
 ## Unfair Advantage
-> Something that cannot easily be bought or copied.
 
 KTH
  
