@@ -40,6 +40,8 @@ Unlike wearables that only estimate VO2 max values, our mask will measure the O2
 ### High-level Concept
 > List your X for Y analogy e.g. Youtube = Flickr for videos
 
+VO2 Master, but developed for students and researchers - portable and affordable for education at KTH.
+
 
 ## Solution
 > Outline a possible solution for each problem.
