@@ -90,5 +90,4 @@ Create possibilities for wireless measurement and transfer of data
 > Something that cannot easily be bought or copied.
 
 KTH
-
-An affordable all-in-one solution with 
+ 
