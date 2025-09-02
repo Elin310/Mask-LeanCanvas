@@ -28,13 +28,17 @@
 A patient that could benefit from continous or regulatory Co2 (and more) measures at home to determine wheter the patien't condition has worsened
  
 Universities involved in sports technology 
- 
-## Unique Value Proposition
+
+Or a performance-driven person who wants to keep track of their measurements. 
+
+ ## Unique Value Proposition
 > Single, clear, compelling message that states why you are different and worth paying attention.
 
 Home non invasive metabolic measurements accessible to all!
 
 Unlike wearables that only estimate VO2 max values, our mask will measure the O2 and CO2 exchange at a lab level for accuracy, for a fraction of the cost. 
+
+Simple setup, ready to use without expert supervision.
 
 
 ### High-level Concept
