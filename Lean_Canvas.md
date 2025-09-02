@@ -11,6 +11,7 @@
 > List how these problems are solved today.
 
 1. VO2 Master can do metabolic measurements during activity but is quite expensive
+2. Smart watches / Wearables
 
 ## Customer Segments
 > List your target customer and users.
@@ -26,10 +27,14 @@
 
 A patient that could benefit from continous or regulatory Co2 (and more) measures at home to determine wheter the patien't condition has worsened
  
+Universities involved in sports technology 
+ 
 ## Unique Value Proposition
 > Single, clear, compelling message that states why you are different and worth paying attention.
 
 Home non invasive metabolic measurements accessible to all!
+
+Unlike wearables that only estimate VO2 max values, our mask will measure the O2 and CO2 exchange at a lab level for accuracy, for a fraction of the cost. 
 
 
 ### High-level Concept
@@ -57,6 +62,7 @@ Create possibilities for wireless measurement and transfer of data
 
 1. Direct purchases
 2. Research grants
+3. B2B offers with hospitals, clinics, and training centers. 
 
 ## Cost Structure
 > List your fixed and variable costs.
@@ -64,6 +70,7 @@ Create possibilities for wireless measurement and transfer of data
 1. Spareparts
 2. Staff
 3. Exhibition costs
+4. Testing and certification of approval for clinical use.  
 
 ## Key Metrics
 
@@ -77,3 +84,5 @@ Create possibilities for wireless measurement and transfer of data
 > Something that cannot easily be bought or copied.
 
 KTH
+
+An affordable all-in-one solution with 
