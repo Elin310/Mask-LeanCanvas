@@ -69,8 +69,9 @@ Create possibilities for wireless measurement and transfer of data
 
 > List the key numbers that tell you how your business is doing.
 
-1. Build prototype/hardware
-2. 
+1. More accessible healthcare
+2. Prototype completion/Usable product
+3. Sensor accuracy
 
 ## Unfair Advantage
 > Something that cannot easily be bought or copied.
